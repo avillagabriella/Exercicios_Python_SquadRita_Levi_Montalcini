@@ -2,12 +2,6 @@
 
 # Projeto de Exercícios Python - Squad Rita Levi Montalcini
 
-<p align="center">
-  <a href="#requisitos-para-executar">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#organizacao-do-repositorio">Organização do Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#autores">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## Requisitos para executar
 
 -   [Python](   https://www.python.org/downloads/) Instalando e configurado
