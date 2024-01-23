@@ -15,5 +15,5 @@ while contador <=5:
     
     contador+=1
 
-print(f'O numero de alunos com media maior ou igual a 7 foi de: {qdtAlunos}')
+print(f'O numero de alunos com media maior ou igual a 7 foi de: {qtdAlunos}')
 print(medias)
