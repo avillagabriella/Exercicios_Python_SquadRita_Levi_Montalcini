@@ -14,3 +14,4 @@ def procurar_contato(nome):
 nome_pesquisa = input("Digite o nome: ")
  
 resultado = procurar_contato(nome_pesquisa)
+print(resultado)
