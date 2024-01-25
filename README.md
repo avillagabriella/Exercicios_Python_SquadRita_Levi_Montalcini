@@ -13,7 +13,7 @@
 1. Cada exercício resolvido foi separado em branchs para facilitar a identificação.
 2. Participação de quase todas as integrantes.
 3. Fizemos encontros para falarmos dos conceitos de git para melhores entendimentos.
-4. Fizemos algns encontros para debatermos sobre a divisão das tarefas.
+4. Fizemos alguns encontros para debatermos sobre a divisão das tarefas.
 5. Dividimos proporcionalmente as atividades.
 6. Todas que estavam presentes nas reuniões colaboraram nas atividades.
 7. Nos ajudamos bastate.   
