@@ -8,7 +8,7 @@ def escolher_palavra_aleatoria(lista):
     return palavra_aleatoria
 
 palavra_correta = escolher_palavra_aleatoria(lista)
-print(palavra_correta)
+
 
 digitadas = []
 
